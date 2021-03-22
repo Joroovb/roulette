@@ -1,0 +1,20 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "joroovb",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "emojic": "^1.1.16",
+    "ora": "^5.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "prettier": "^2.2.1"
+  }
+}
